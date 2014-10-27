@@ -84,3 +84,5 @@ At the bottom left of the screen, you will see a cube moving and some text about
 ![Testing LightTable - running in the instarepl](img/os_x/testing-step4.png)
 
 If that worked, great! Close LightTable. 
+
+Congratulations! Your computer is all set up.
